@@ -1,0 +1,5 @@
+.idea/
+venv/
+__pypackages__/
+ticketing-service.iml
+__pycache__

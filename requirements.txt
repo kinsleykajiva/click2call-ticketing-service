@@ -1,0 +1,27 @@
+anyio==3.5.0
+asgiref==3.4.1
+click==8.0.3
+colorama==0.4.4
+fastapi==0.71.0
+h11==0.12.0
+httptools==0.3.0
+idna==3.3
+pip==21.3.1
+pydantic==1.9.0
+python-dotenv==0.19.2
+PyYAML==6.0
+setuptools==60.5.0
+sniffio==1.2.0
+starlette==0.17.1
+typing-extensions==4.0.1
+uvicorn==0.17.0
+watchgod==0.7
+websockets==10.1
+wheel==0.37.1
+py_eureka_client==0.10.2
+mysqlclient==2.1.0
+mariadb==1.0.9
+SQLAlchemy==1.4.29
+requests==2.26.0
+jsonify==0.5
+# sudo apt-get install  default-libmysqlclient-dev build-essential

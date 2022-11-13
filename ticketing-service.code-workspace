@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\main-messeges-service"
+    },
+    {
+      "path": "..\\websockets-chat"
+    }
+  ],
+  "settings": {
+    "sqltools.connections": [
+      {
+        "mysqlOptions": {
+          "authProtocol": "default"
+        },
+        "previewLimit": 50,
+        "server": "click-to-call.cluster-xxxxxxxxxxxxxx.af-south-1.rds.amazonaws.com",
+        "port": 3306,
+        "driver": "MySQL",
+        "name": "ticketing",
+        "database": "ticketing",
+        "username": "Var1DziM",
+        "password": "Sr8i9Tx19djZcvjk"
+      }
+    ]
+  }
+}
